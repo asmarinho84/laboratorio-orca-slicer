@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://asmarinho84.github.io/laboratorio-orca-slicer/sitemap.xml
